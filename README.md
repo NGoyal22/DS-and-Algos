@@ -3,7 +3,7 @@
 Overview
 This repository focuses on implementing essential data structures and algorithms using the C++ programming language. Understanding data structures and algorithms is crucial for writing efficient and optimized code. This collection serves as a resource for learning and practicing these fundamental concepts.
 
-![DS and Algos](./images/DS.png)
+![DS and Algos](./images/DS.jpeg)
 
 Key Features
 Comprehensive Collection: The repository covers a wide range of data structures, such as arrays, linked lists, trees, graphs, and algorithms like sorting, searching, and dynamic programming.
